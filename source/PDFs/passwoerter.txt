@@ -1,3 +1,0 @@
-Blatt 01: imi1_17_induktion
-Blatt 02: imi1_17_logik
-Blatt 03: imi1_17_knf
